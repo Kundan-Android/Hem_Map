@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapProject_Hem</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_destination">Map</string>
+</resources>
